@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+00~~后~~ 年，水瓶座
 
-You can use the [editor on GitHub](https://github.com/KunZhangFu/Readme/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+目前在读硕士一年级，农艺与种业专业
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+英语差
 
-### Markdown
+生信在学习（初级阶段）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **看过的书（印象深刻的）**：
 
-```markdown
-Syntax highlighted code block
+小学：《哈利波特》《福尔摩斯探案全集》《舒克与贝塔全集》……
 
-# Header 1
-## Header 2
-### Header 3
+初中：《三个火枪手》《笑猫日记》《钢铁是怎样炼成的》《格列佛游记》《鲁滨逊漂流记》《时间机器》《汤姆·索亚历险记》《海底两万里》……
 
-- Bulleted
-- List
+高中：《达芬奇密码》《骆驼祥子》《 肖申克的救赎》**刘慈欣**所有的书都看过不止一遍，推荐《乡村教师》
 
-1. Numbered
-2. List
+本科：《高兴》《商州》《胡蝶》《活着》《许三观卖血记》《他改变了中国》《普京传》《凯尔特神话》
 
-**Bold** and _Italic_ and `Code` text
+研究生：《指环王》《一九八四》 20220525-26：《蛙》
 
-[Link](url) and ![Image](src)
-```
+（其他想到补充）
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## **看过的电影/剧集**：
 
-### Jekyll Themes
+哈利波特系列，加勒比海盗系列 老友记 生活大爆炸 爱死亡机器人 黑镜 瑞克与莫蒂 怪诞小镇 黑袍纠察队
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KunZhangFu/Readme/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 平时喜欢听的**音乐**风格：
 
-### Support or Contact
+欧美流行、电子音乐
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## 平时玩的游戏/推荐游戏
+
+最常玩：APEX OW
+
+剧情推荐：泰坦陨落2 消逝的光芒  
